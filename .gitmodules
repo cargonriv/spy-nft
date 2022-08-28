@@ -1,0 +1,3 @@
+[submodule "proof-of-humanity"]
+	path = proof-of-humanity
+	url = https://github.com/bakoushin/proof-of-humanity.git
